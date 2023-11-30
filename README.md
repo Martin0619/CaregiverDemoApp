@@ -13,7 +13,7 @@ This project was built with **TypeScript** and **Nextjs v14**, and it include th
 
 ## How to run and use this demo application:
 
-1. Clone this project => git clone
+1. Clone this project => git clone https://github.com/Martin0619/CaregiverDemoApp.git
 2. Install dependencies => pnpm install (or npm install)
 3. Create a secret key for NextAuth => openssl rand -base64 32
 4. Create a GitHub OAuth app and generate a secret => https://github.com/settings/developers
