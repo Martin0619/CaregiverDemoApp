@@ -2,7 +2,7 @@
 
 ## This is a full demo application to show the core functionalities of Nextjs v14
 
-This project was built with **TypeScript** and **Nextjs v14**, and it include the following functionalities:
+This project was built with **TypeScript** and **Nextjs v14**. It was design to run on _Mobile S - 320px_, and it include the following functionalities:
 
 - LogIn with GitHub
 - How to protect routes
