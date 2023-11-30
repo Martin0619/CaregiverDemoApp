@@ -11,6 +11,8 @@ This project was built with **TypeScript** and **Nextjs v14**. It was design to 
 - How to create an **Api Layer** using the server actions
 - Retrieve and render fetched data
 
+![image of the application running](library.png)
+
 ## How to run and use this demo application:
 
 1. Clone this project => git clone https://github.com/Martin0619/CaregiverDemoApp.git
