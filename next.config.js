@@ -7,6 +7,10 @@ const nextConfig = {
         hostname: "carallel.com",
         pathname: "/wp-content/uploads/**",
       },
+      {
+        protocol: "https",
+        hostname: "pics.filmaffinity.com",
+      },
     ],
   },
 };
