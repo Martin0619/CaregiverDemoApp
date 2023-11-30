@@ -1,0 +1,38 @@
+.button {
+  color: var(--primary);
+  background-color: var(--secondary);
+  text-transform: capitalize;
+  border-radius: 100px;
+  padding: 0.6rem 1.25rem;
+  font-weight: 700;
+  font-size: 0.9rem;
+  width: min-content;
+  cursor: pointer;
+
+  &:hover {
+    background-color: var(--primary);
+    color: var(--secondary);
+  }
+
+  &.active {
+    background-color: var(--primary);
+    color: var(--secondary);
+  }
+
+  &.transparent {
+    background-color: transparent;
+    color: initial;
+
+    &:hover {
+      color: var(--primary);
+    }
+  }
+
+  &.thin {
+    width: max-content;
+    padding: 0.25rem 0.5rem;
+    font-size: 0.7rem;
+    background-color: #b66f43;
+    color: white;
+  }
+}

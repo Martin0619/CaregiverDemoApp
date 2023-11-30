@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+  height: 4rem;
+  position: fixed;
+  z-index: 100;
+  left: 0;
+  bottom: 0;
+  background-color: var(--gray300);
+  width: 100%;
+
+  & > a {
+    font-size: 1.45rem;
+  }
+
+  &__text {
+    font-size: 0.8rem;
+    margin: 0;
+    margin-top: 0.25rem;
+  }
+}

@@ -1,0 +1,10 @@
+.flexContainer {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: nowrap;
+  align-items: center;
+
+  &.column {
+    flex-direction: column;
+  }
+}

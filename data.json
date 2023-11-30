@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Are You Aging Solo Too?",
+    "author": "Perry Mimms",
+    "image": {
+      "src": "https://carallel.com/wp-content/uploads/2022/08/Solo-Ager-hero.png",
+      "width": 1024,
+      "height": 579
+    },
+    "introduction": "Many of us, whether by choice or due to life changes, are aging on our own. Recognizing that we are aging solo can help us take steps to make sure we are well prepared for our future and can continue living life the way we want to.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  {
+    "id": "2",
+    "title": "Navigating the Family Dynamics of Caregiving",
+    "author": "Matt Perrin",
+    "image": {
+      "src": "https://carallel.com/wp-content/uploads/2022/05/Navigating-Family-Dynamics-Featured-Image-.jpg",
+      "width": 1280,
+      "height": 724
+    },
+    "introduction": "The family dynamics of caregiving can often be a complicating factor; often adding even more stress to an already stressful time when a loved one needs care.",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }
+]
