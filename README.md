@@ -6,8 +6,8 @@ This project was built with **TypeScript** and **Nextjs v14**. It was design to 
 
 - LogIn with GitHub
 - How to protect routes
-- Use of **server** components and **client** components
-- How to **React Contexts** for managing state (or dependency injection)
+- How to use of **server** components and **client** components
+- How to use **React Contexts** for managing state (or dependency injection)
 - How to create an **Api Layer** using the server actions
 - Retrieve and render fetched data
 
