@@ -3,7 +3,7 @@ import { FC, ReactNode } from "react";
 import css from "./button.module.scss";
 
 type Props = {
-  children: ReactNode;
+  children?: ReactNode;
   as?: "a" | "button" | "span";
   active?: boolean;
   className?: string;
